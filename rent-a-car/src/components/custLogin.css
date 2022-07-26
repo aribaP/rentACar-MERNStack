@@ -1,0 +1,37 @@
+.note
+{
+    text-align: center;
+    height: 80px;
+    background: -webkit-linear-gradient(left, rgb(178, 175, 175),black);
+    color: #f8f9fa;
+    font-weight: bold;
+    line-height: 80px;
+}
+.form-content
+{
+    padding: 5%;
+    border: 1px solid #b1b4b8;
+    margin-bottom: 2%;
+    font-weight: bold;
+}
+.form-control{
+    border-radius:1.5rem;
+}
+.TitleLogin{
+    text-align: center;
+}
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+.LinkSignUp {
+    padding-bottom: 5%;
+    padding-top: 4%;
+}

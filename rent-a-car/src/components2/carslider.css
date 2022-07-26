@@ -1,0 +1,21 @@
+.Carousel_style{
+   height:65%;
+}
+.Caption_styling
+{
+   display: flex;
+}
+.h1{
+   font: size 6.5rem;
+   color: black;
+ 
+}
+.Carousel.Caption{
+    text-align: left!important;
+     /* color:black !important */
+}
+.h1, h1 {
+   font-size: 0.8rem;
+   text-align: left;
+   /* background-color: rgb(79, 79, 79); */
+}

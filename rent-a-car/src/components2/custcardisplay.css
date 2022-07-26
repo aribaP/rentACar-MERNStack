@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@800&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.carDisplayCard {
+    padding: 15px;
+    background-color:#cfd1d2!important;
+}
+
+.container_card {
+    margin: 20px auto;
+    max-width: 1000px;
+    background-color: white;
+    padding: 0;
+}
+.info{
+    height: 25px;
+    width: 150px;
+    border: none;
+    border-radius: 0;
+    font-weight: 800;
+    padding: 0 0 5px 0;
+    background-color: transparent;
+    box-shadow: none;
+    outline: none;
+    border-bottom: 2px solid #ccc;
+    margin: 0;
+    font-size: 14px;
+}
+
+
+.para {
+    margin: 0;
+}
+.fontsize-22{
+    font-size: 22px;
+}
+
+.carImage img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.text-mute {
+    font-size: 10px;
+}
+
+.textmute {
+    color: #6c757d;
+    font-size: 13px;
+}
+
+.fontsize-14 {
+    font-size: 14px;
+}
+.ProdButton.btn.btn-danger{
+    width: 96%;
+    height: 55px;
+    border-radius: 0;
+    padding: 13px 0;
+    background-color: black;
+    border: none;
+    font-weight: 600;
+}
+
+.ProdButton.btn.btn-danger:hover .fas {
+    transform: translateX(10px);
+    transition: transform 0.5s ease
+}
+
+
+.fw-900 {
+    font-weight: 900;
+}
+
+
+
+.ps-30 {
+    padding-left: 30px;
+}
+
+.heading4 {
+    font-family: 'Work Sans', sans-serif !important;
+    font-weight: 800 !important;
+}
+
+.textmute,
+.heading5,
+.text-mute {
+    font-family: 'Poppins', sans-serif;
+}
+
+@media only screen and (max-width: 1190px) {
+    .carDisplayCard{
+        width: 100% !important;
+        box-shadow: 0 0 0px !important;
+    
+    }
+    }

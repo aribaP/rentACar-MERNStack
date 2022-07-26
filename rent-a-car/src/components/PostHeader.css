@@ -1,0 +1,17 @@
+
+section#post-header {
+    background-image: url("./images/subheader.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+section#post-header h1 {
+    font-size: 60px;
+    line-height: 65px;
+    color: #fff;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
